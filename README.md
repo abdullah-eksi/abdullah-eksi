@@ -13,6 +13,6 @@ Hello! My name is Abdullah Ekşi. I am a passionate software developer. After re
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah34x&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdullah34x&icon=7&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdullah-eksi&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
