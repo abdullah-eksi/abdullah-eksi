@@ -10,7 +10,9 @@ Hello! My name is Abdullah Ekşi. I am a passionate software developer. After re
 # 📊 GitHub Stats:
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-eksi&show_icons=true&locale=en&layout=compact" alt="abdullah-eksi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-eksi&show_icons=true&locale=en" alt="abdullah-eksi" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdullah-eksi&icon=7&color=5)](https://visitcount.itsvg.in)
