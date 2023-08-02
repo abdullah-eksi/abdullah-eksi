@@ -10,7 +10,7 @@ Hello! My name is Abdullah Ekşi. I am a passionate software developer. After re
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-eksi&theme=radical&hide_border=false)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdullah-eksi&icon=7&color=5)](https://visitcount.itsvg.in)
