@@ -28,7 +28,5 @@ Hello! My name is Abdullah Ekşi. I am a passionate software developer. After re
 
 
 
-
----
 [![](https://visitcount.itsvg.in/api?id=abdullah-eksi&icon=0&color=0)](https://visitcount.itsvg.in)
 
