@@ -20,13 +20,15 @@ Hello! My name is Abdullah Ekşi. I am a passionate software developer. After re
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows-95&logoColor=white)
 
+---
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullah-eksi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-eksi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
+---
 
 [![](https://visitcount.itsvg.in/api?id=abdullah-eksi&icon=0&color=0)](https://visitcount.itsvg.in)
 
