@@ -24,7 +24,7 @@ Hello! My name is Abdullah Ekşi. I am a 19-year-old passionate software develop
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-eksi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-eksi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
 
 
  
